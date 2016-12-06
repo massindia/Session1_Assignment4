@@ -8,13 +8,7 @@ public class asciicodeprint {
 		{
 		System.out.println("ASCII Value is "+n+"-"+A+"");
 
-		
-		}
-		
-		
-		
-		
-		
+		}	
 		
 	}
 
